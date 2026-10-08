@@ -21,14 +21,13 @@ proxies:
   name: '🇩🇪 德国 | DEU #1'
   password: amazonskr05
   port: 443
+  server: 18.196.88.40
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '🇩🇪 德国 | DEU #7'
+  password: amazonskr05
+  port: 443
   server: 3.75.231.76
   type: ss
-- alterId: 0
-  cipher: auto
-  name: '🇩🇪 德国 | DEU #5'
-  network: http
-  port: 43462
-  server: 5.75.204.152
-  tls: false
-  type: vmess
-  uuid: 38dd079f-b778-44cf-8532-574c6ebc24d4
+  udp: true
