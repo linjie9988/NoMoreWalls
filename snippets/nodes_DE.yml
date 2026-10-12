@@ -23,11 +23,3 @@ proxies:
   server: ger2.fytpn.com
   skip-cert-verify: false
   type: trojan
-- name: '🇩🇪 德国 | DEU #7'
-  password: 3ixF51QWmFNmKOO_utPxVL-7gYYUb6HC
-  port: 8443
-  server: b1.3danimation3.com
-  skip-cert-verify: true
-  sni: b1.3danimation3.com
-  type: trojan
-  udp: true
